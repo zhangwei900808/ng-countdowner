@@ -13,7 +13,6 @@
     "angular"
   ],
   "author": "zhangwei",
-  "license": "MIT",
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.8",
     "@angular/cli": "~6.0.8",
