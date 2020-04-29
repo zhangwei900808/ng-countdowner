@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { CountdownerModule } from './public_api';
+export { NgCountdownerComponent as ɵa } from './src/app/countdowner/ng-countdowner/ng-countdowner.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmctY291bnRkb3duZXIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy1jb3VudGRvd25lci8iLCJzb3VyY2VzIjpbIm5nLWNvdW50ZG93bmVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSxrQ0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLHNCQUFzQixJQUFJLEVBQUUsRUFBQyxNQUFNLCtEQUErRCxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge05nQ291bnRkb3duZXJDb21wb25lbnQgYXMgybVhfSBmcm9tICcuL3NyYy9hcHAvY291bnRkb3duZXIvbmctY291bnRkb3duZXIvbmctY291bnRkb3duZXIuY29tcG9uZW50JzsiXX0=
